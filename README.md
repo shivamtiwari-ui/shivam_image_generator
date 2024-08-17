@@ -1,1 +1,1 @@
-# shivam_image_generator
+# It is a Image generator application
